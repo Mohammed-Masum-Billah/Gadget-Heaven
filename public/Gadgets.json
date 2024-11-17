@@ -1,0 +1,269 @@
+[
+    {
+      "product_id": "1",
+      "product_title": "Dell Inspiron 15",
+      "product_image": "https://i.ibb.co.com/LpdLYXR/Dell-15.jpg",
+      "category": "Laptop",
+      "price": 950,
+      "description": "A reliable laptop with Intel i5 processor and 8GB RAM, ideal for daily tasks.",
+      "Specification": [
+        "Intel Core i5",
+        "8GB RAM",
+        "256GB SSD",
+        "15.6 inch Full HD Display",
+        "Windows 10 Home"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "2",
+      "product_title": "HP Pavilion x360",
+      "product_image": "https://i.ibb.co.com/yPM7sjc/HP-Pavilion-x360-14-ek1006nia-Intel-Core-i5-1335-U-13th-Gen-14-Inch-FHD.webp",
+      "category": "Laptop",
+      "price": 800,
+      "description": "A versatile 2-in-1 laptop with touch screen and Intel i7 processor.",
+      "Specification": [
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD",
+        "14 inch FHD Touchscreen",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "3",
+      "product_title": "MacBook Air M1",
+      "product_image": "https://i.ibb.co.com/phC93kR/mac-m1.jpg",
+      "category": "MacBook",
+      "price": 999,
+      "description": "Apple's MacBook Air with M1 chip, delivering great performance and battery life.",
+      "Specification": [
+        "Apple M1 chip",
+        "8GB RAM",
+        "256GB SSD",
+        "13.3 inch Retina Display",
+        "macOS Big Sur"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "4",
+      "product_title": "Logitech Wireless Mouse",
+      "product_image": "https://i.ibb.co.com/8mNj53W/logi-703.jpg",
+      "category": "Accessories",
+      "price": 250,
+      "description": "Ergonomic wireless mouse with long battery life and customizable buttons.",
+      "Specification": [
+        "2.4 GHz wireless connection",
+        "Ergonomic design",
+        "1000 DPI",
+        "Up to 18 months battery life"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "5",
+      "product_title": "Samsung T7 Portable SSD",
+      "product_image": "https://i.ibb.co.com/0czrP5P/t7-ssd.webp",
+      "category": "Accessories",
+      "price": 150,
+      "description": "High-speed portable SSD with compact design and data encryption.",
+      "Specification": [
+        "1TB storage",
+        "USB 3.2 Gen2 interface",
+        "Shock-resistant",
+        "Data encryption support"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "6",
+      "product_title": "JBL Flip 5 Speaker",
+      "product_image": "https://i.ibb.co.com/LZvwYwJ/JBL-FLIP-5-Portable-Waterproof-Speaker.jpg",
+      "category": "Accessories",
+      "price": 220,
+      "description": "Portable waterproof speaker with powerful sound and long battery life.",
+      "Specification": [
+        "Bluetooth 5.0",
+        "Waterproof IPX7",
+        "12-hour playtime",
+        "20W output power"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "7",
+      "product_title": "Samsung Galaxy S21",
+      "product_image": "https://i.ibb.co.com/mcxyDBC/s21.webp",
+      "category": "Phones",
+      "price": 780,
+      "description": "Latest Samsung Galaxy smartphone with triple rear camera and high-speed performance.",
+      "Specification": [
+        "6.2 inch Dynamic AMOLED 2X Display",
+        "128GB storage",
+        "Triple 64MP rear camera",
+        "4000mAh battery",
+        "5G compatible"
+      ],
+      "availability": false,
+      "rating": 4.8
+    },
+    {
+      "product_id": "8",
+      "product_title": "iPhone 13 Pro",
+      "product_image": "https://i.ibb.co.com/9HJfpMS/Apple-i-Phone-13-Pro-i-Phone-13-Pro-Max-09142021-inline-jpg-large.jpg",
+      "category": "iPhones",
+      "price": 1099,
+      "description": "Apple's latest iPhone with ProMotion display and A15 Bionic chip for superfast performance.",
+      "Specification": [
+        "6.1 inch Super Retina XDR display",
+        "128GB storage",
+        "Triple 12MP camera system",
+        "3095mAh battery",
+        "5G compatible"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "9",
+      "product_title": "Google Pixel 6",
+      "product_image": "https://i.ibb.co.com/qLGj6Y9/Google-Pixel-6-Price-in-bangladesh.jpg",
+      "category": "Phones",
+      "price": 899,
+      "description": "Google's flagship smartphone with advanced AI capabilities and excellent camera performance.",
+      "Specification": [
+        "6.4 inch AMOLED display",
+        "128GB storage",
+        "Dual 50MP rear camera",
+        "4614mAh battery",
+        "5G compatible"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "10",
+      "product_title": "OnePlus 9",
+      "product_image": "https://i.ibb.co.com/Tmg8KYz/op-9.jpg",
+      "category": "Phones",
+      "price": 729,
+      "description": "A powerful smartphone with fast charging, AMOLED display, and Snapdragon 888 processor.",
+      "Specification": [
+        "6.55 inch Fluid AMOLED display",
+        "128GB storage",
+        "Triple 48MP rear camera",
+        "4500mAh battery",
+        "5G compatible"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "11",
+      "product_title": "Apple Watch Series 7",
+      "product_image": "https://i.ibb.co.com/ckdTsN1/apple-watch-series-7-45mm-gps-smartwatch.jpg",
+      "category": "Smart Watch",
+      "price": 399,
+      "description": "Apple's latest smartwatch with a larger display and improved health tracking features.",
+      "Specification": [
+        "45mm Retina display",
+        "Water resistant",
+        "Heart rate monitoring",
+        "Blood oxygen sensor",
+        "Up to 18 hours battery life"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "12",
+      "product_title": "Samsung Galaxy Watch 4",
+      "product_image": "https://i.ibb.co.com/WxmTTg2/Samsung-Galaxy-Watch-4-40mm-R860-1.jpg",
+      "category": "Smart Watch",
+      "price": 249,
+      "description": "A smartwatch with advanced fitness tracking and Wear OS powered by Samsung.",
+      "Specification": [
+        "44mm AMOLED display",
+        "Water resistant",
+        "Heart rate and ECG monitoring",
+        "BioActive sensor",
+        "Up to 40 hours battery life"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "13",
+      "product_title": "Fitbit Charge 5",
+      "product_image": "https://i.ibb.co.com/rygVcYh/Fitbit-Charge-5-Black-3688.jpg",
+      "category": "Smart Watch",
+      "price": 180,
+      "description": "Fitness tracker with advanced health metrics and built-in GPS.",
+      "Specification": [
+        "Color touchscreen",
+        "Built-in GPS",
+        "Sleep tracking",
+        "Heart rate monitor",
+        "Up to 7 days battery life"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "14",
+      "product_title": "Garmin Forerunner 245",
+      "product_image": "https://i.ibb.co.com/qrQPjwY/51-PWE7-Cmv-L-AC-SL1000.jpg",
+      "category": "Smart Watch",
+      "price": 300,
+      "description": "Running watch with advanced training features and music support.",
+      "Specification": [
+        "GPS and GLONASS",
+        "VO2 max estimation",
+        "Heart rate monitor",
+        "Up to 7 days battery life"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "15",
+      "product_title": "Anker PowerCore 10000",
+      "product_image": "https://i.ibb.co.com/WxSZ4r3/Anker-Power-Core-Metro-Slim-10000m-Ah-Power-Bank-A1229-H11-Black-1.jpg",
+      "category": "Accessories",
+      "price": 80,
+      "description": "Portable charger with fast-charging capabilities and compact design.",
+      "Specification": [
+        "10000mAh capacity",
+        "Compact and lightweight",
+        "High-speed charging",
+        "Multiple device compatibility"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "16",
+      "product_title": "Sony WH-1000XM4 Headphones",
+      "product_image": "https://i.ibb.co.com/nbyR9d3/510cs9-Vwj-UL-AC-UF1000-1000-QL80.jpg",
+      "category": "Accessories",
+      "price": 450,
+      "description": "Wireless noise-canceling headphones with high-fidelity sound and long battery life.",
+      "Specification": [
+        "Industry-leading noise cancellation",
+        "30-hour battery life",
+        "Bluetooth 5.0",
+        "Touch sensor controls"
+      ],
+      "availability": true,
+      "rating": 4.9
+    }
+  ]
+  
